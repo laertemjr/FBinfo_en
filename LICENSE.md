@@ -22,31 +22,3 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-Este é um software livre e sem ônus lançado em domínio público.
-
-Qualquer pessoa é livre para copiar, modificar, publicar, usar, compilar, vender ou
-distribuir este software, seja em forma de código-fonte ou como um
-binário compilado, para qualquer propósito, comercial ou não comercial, e por qualquer
-meio.
-
-Em jurisdições que reconhecem leis de direitos autorais, o autor ou autores
-deste software dedicam todo e qualquer interesse de direitos autorais no
-software ao domínio público. Fazemos esta dedicação para o benefício
-do público em geral e em detrimento de nossos herdeiros e
-sucessores. Pretendemos que esta dedicação seja um ato aberto de
-renúncia em perpetuidade de todos os direitos presentes e futuros a este
-software sob a lei de direitos autorais.
-
-O SOFTWARE É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIA DE QUALQUER TIPO,
-EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE
-COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO.
-EM NENHUMA HIPÓTESE OS AUTORES SERÃO RESPONSÁVEIS POR QUALQUER REIVINDICAÇÃO, DANOS OU
-OUTRA RESPONSABILIDADE, SEJA EM UMA AÇÃO DE CONTRATO, ATO ILÍCITO OU DE OUTRA FORMA,
-DECORRENTE DE, DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU
-OUTRAS NEGOCIAÇÕES NO SOFTWARE.
-
-Para mais informações, consulte <https://unlicense.org>
-
