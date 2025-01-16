@@ -1,37 +1,37 @@
 # FBinfo 
 
-Identifica bancos de dados **Firebird** entre as versões 1.x - 4.x
+Identifies **Firebird** databases between versions 1.x - 4.x
 <br/>
 <br/>
-### 📋 Pré-requisitos
+### 📋 System requirements
 
 *  Windows 10
-*  Servidores Firebird sendo executados nas seguintes versões e portas:
+*  Firebird servers running on the following versions and ports:
    * 1.5 => 3015
    * 2.5 => 3025
    * 3.0 => 3030
    * 4.0 => 3040
      
-* Instale o Delphi 12.1 se você quiser editar, testar, e criar seu próprio arquivo executável com base neste código.
-  * Instale os componentes IBX.
+* Install Delphi 12.1 if you want to edit, test, and create your own executable file based on this code..
+  * Install IBX components.
 
 
-### ⚙️ Executando os testes
+### ⚙️ Running the tests
 
-* Para testar o código deste projeto, basta fazer o download do arquivo executável, acessível a partir da pasta [Win32/Debug](https://github.com/laertemjr/FBinfo_pt-BR/tree/main/Win32/Debug) deste repositório.
+* To test the code of this project, simply download the executable file, accessible from the folder [Win32/Debug](https://github.com/laertemjr/FBinfo_en/tree/main/Win32/Debug) from this repository.
 
 
-### 🛠️ Construído com
+### 🛠️ Built with
 
-* [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/br/products/delphi)
+* [![Delphi](https://img.shields.io/badge/-Delphi-E62431?logo=delphi&logoColor=white&style=plastic)](https://www.embarcadero.com/products/delphi)
 * [![Firebird](https://img.shields.io/badge/-Firebird-F25225?style=flat)](https://www.firebirdsql.org/)
 
 
-### 📌 Versão
+### 📌 Version
 
-* Original - 08/01/2025 
+* 0.1 - 08/01/2025 
 
 
-### 📄 Licença
+### 📄 License
 
-* Este projeto está sob a licença *The Unlicense* - veja o arquivo [LICENSE.md](https://github.com/laertemjr/FBinfo_pt-BR/blob/main/LICENSE.md) para detalhes.
+* This project is under the license *The Unlicense* - see the file [LICENSE.md](https://github.com/laertemjr/FBinfo_en/blob/main/LICENSE.md) for details.
