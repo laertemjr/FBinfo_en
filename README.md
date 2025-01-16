@@ -29,7 +29,7 @@ Identifies **Firebird** databases between versions 1.x - 4.x
 
 ### 📌 Version
 
-* 0.1 - 08/01/2025 
+* 0.1 - 16/01/2025 
 
 
 ### 📄 License
