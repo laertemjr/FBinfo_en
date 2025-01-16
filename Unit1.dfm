@@ -2,8 +2,8 @@ object Form1: TForm1
   Left = 0
   Top = 0
   Caption = 
-    'UTILIT'#193'RIO - Identifica o Banco de Dados Firebird (compat'#237'vel co' +
-    'm as vers'#245'es 1.x - 4.x)'
+    'UTILITY - Identifies the Firebird Database (compatible with vers' +
+    'ions 1.x - 4.x)'
   ClientHeight = 321
   ClientWidth = 624
   Color = clBtnFace
@@ -16,16 +16,16 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 16
     Top = 70
-    Width = 87
+    Width = 54
     Height = 15
-    Caption = 'Banco de dados:'
+    Caption = 'Database :'
   end
   object Label2: TLabel
     Left = 16
     Top = 135
-    Width = 346
+    Width = 279
     Height = 15
-    Caption = 'Vers'#227'o do Servidor Firebird que o banco de dados est'#225' conectado:'
+    Caption = 'Firebird server version that database is connected to :'
   end
   object lblFBserver: TLabel
     Left = 16
@@ -42,9 +42,9 @@ object Form1: TForm1
   object Label3: TLabel
     Left = 16
     Top = 191
-    Width = 170
+    Width = 120
     Height = 15
-    Caption = 'Vers'#227'o ODS do  banco de dados:'
+    Caption = 'ODS database version :'
   end
   object lbODS: TLabel
     Left = 16
@@ -61,9 +61,9 @@ object Form1: TForm1
   object Label4: TLabel
     Left = 16
     Top = 247
-    Width = 187
+    Width = 134
     Height = 15
-    Caption = 'Vers'#227'o do  banco de dados Firebird:'
+    Caption = 'Firebird database version:'
   end
   object lbFBv: TLabel
     Left = 16
@@ -104,9 +104,9 @@ object Form1: TForm1
   object Label5: TLabel
     Left = 488
     Top = 156
-    Width = 107
+    Width = 100
     Height = 15
-    Caption = 'Outras informa'#231#245'es:'
+    Caption = 'other information :'
   end
   object lblDialetoSQL: TLabel
     Left = 488
@@ -123,9 +123,9 @@ object Form1: TForm1
   object Label6: TLabel
     Left = 16
     Top = 8
-    Width = 194
+    Width = 130
     Height = 15
-    Caption = 'Selecione o Banco de Dados Firebird:'
+    Caption = 'Select Firebird database :'
   end
   object Label7: TLabel
     Left = 0
@@ -133,17 +133,15 @@ object Form1: TForm1
     Width = 624
     Height = 15
     Align = alBottom
-    Caption = 
-      'Desenvolvido em Delphi 12.1, componentes IBX, vers'#227'o de testes (' +
-      '2025)'
-    ExplicitWidth = 375
+    Caption = 'Bilt with Delphi 12.1, IBX components, version 0.1 (2025)'
+    ExplicitWidth = 294
   end
   object Button1: TButton
     Left = 16
     Top = 29
     Width = 145
     Height = 25
-    Caption = 'Procurar'
+    Caption = 'Browse...'
     TabOrder = 0
     OnClick = Button1Click
   end
